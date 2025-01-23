@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CS408Lab2A</string>
+    <string name="clickMe">Click Me</string>
+    <string name="banner">Press the button to get story help …</string>
+
+    <!-- Story Strings -->
+    <string name="knockedOut">you get knocked out</string>
+    <string name="leave">you go somewhere else</string>
+    <string name="deadMan">you find a dead man</string>
+    <string name="deadWoman">you find a dead woman</string>
+    <string name="blonde">you meet a buxom blonde</string>
+    <string name="searchedPlace">someone has searched the place</string>
+    <string name="cop">a crooked cop warns you</string>
+    <string name="arrested">you are arrested</string>
+    <string name="gun">you find a gun</string>
+    <string name="knife">you find a knife</string>
+    <string name="rope">you find a frayed rope</string>
+    <string name="bullet">a bullet whizzes past your ear!</string>
+    <string name="runOver">you are almost run over!</string>
+    <string name="followed">you are being followed</string>
+    <string name="perfume">you smell familiar perfume</string>
+    <string name="phoneRings">the telephone rings …</string>
+    <string name="knock">there is a knock at the door</string>
+    <string name="footsteps">you hear footsteps behind you …</string>
+    <string name="gunshot">you hear a gunshot!</string>
+    <string name="scream">you hear a scream!</string>
+    <string name="notAlone">you sense you are not alone …</string>
+    <string name="storyStinks">… forget this story, it stinks!</string>
+
+    <!-- String Array -->
+    <string-array name="stringArray">
+        <item>@string/knockedOut</item>
+        <item>@string/leave</item>
+        <item>@string/deadMan</item>
+        <item>@string/deadWoman</item>
+        <item>@string/blonde</item>
+        <item>@string/searchedPlace</item>
+        <item>@string/cop</item>
+        <item>@string/arrested</item>
+        <item>@string/gun</item>
+        <item>@string/knife</item>
+        <item>@string/rope</item>
+        <item>@string/bullet</item>
+        <item>@string/runOver</item>
+        <item>@string/followed</item>
+        <item>@string/perfume</item>
+        <item>@string/phoneRings</item>
+        <item>@string/knock</item>
+        <item>@string/footsteps</item>
+        <item>@string/gunshot</item>
+        <item>@string/scream</item>
+        <item>@string/notAlone</item>
+        <item>@string/storyStinks</item>
+    </string-array>
+</resources>
